@@ -1,6 +1,7 @@
 # Game-Mod
 
-The code below includes only code that I wrote, not all the code needed for these classes to be fully functional
+Read features.txt to know about what this mod does
+This code includes only code that I wrote, not all the code needed for these classes to be fully functional
 
 - Candies.cs
     - Code for candy that's shot out
