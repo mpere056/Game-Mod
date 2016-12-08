@@ -13,6 +13,9 @@
     - Acts as the main class that's used to run code from other classes
     - Also contains most of the RPC functions, which are used as multiplayer functions
 
+- IN_GAME_MAIN_CAMERA.cs
+    - Another main class that runs code from other functions, but is much smaller than FengGameManagerMKII
+
 - LoginSystem.cs
     - Communicates with a database by using webclient that contains usernames and password, and a list of friends for each user
     - Includes a basic user friends GUI to login, send friend requests, and see which friends are online
