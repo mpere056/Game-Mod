@@ -1,14 +1,14 @@
 # Game-Mod
 
-The code below includes only code that I wrote, not all the code needed for these classes to be fully functional.
+The code below includes only code that I wrote, not all the code needed for these classes to be fully functional
 
-*Candies.cs*
-  Code for candy that's shot out
-  On collision with a player, the player performs a random dance animation
+-Candies
+    -Code for candy that's shot out
+    -On collision with a player, the player performs a random dance animation
 
-*CandyBalls.cs*
-  Code to make a pvp gamemode where coloured balls are shot at players
-  https://youtu.be/BltUulGohGg
+  CandyBalls
+    Code to make a pvp gamemode where coloured balls are shot at players
+    https://youtu.be/BltUulGohGg
 
 *FengGameManagerMKII.cs*
   Acts as the main class that's used to run code from other classes
