@@ -1,4 +1,4 @@
-#Read Features.txt to know about what this mod does
+#Read Features.txt to know what this mod can do
 #This code includes only code that my friend and I wrote, not all the code needed for these classes to be fully functional
 
 - Candies.cs
