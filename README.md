@@ -1,6 +1,6 @@
 # Game-Mod
 
-Read features.txt to know about what this mod does
+Read Features.txt to know about what this mod does\n
 This code includes only code that I wrote, not all the code needed for these classes to be fully functional
 
 - Candies.cs
