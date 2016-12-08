@@ -1,0 +1,111 @@
+- Press f4 to open the login system gui
+
+- New game mode CandyBalls PVP
+
+- Update system to automatically update the mod
+
+- Whenever someone sends a link in the chat, you can
+  click on it to either copy the link to your chat,
+  or to open it in a browser.
+  NO MORE MANUALLY COPYING LINKS
+
+- Press h to spawn candy
+  It spawns a flashy under you and comes with features
+
+- Press 8 in candymode to get wings
+  In flight mode, hold gas to glide, hold attack to go up
+
+- Type "/group on" to enter a group chat that only
+  other CandyMod users can see
+
+
+-Personal-
+
+  Shows your stats, and you can open the GUI Skins window
+
+  GUI Skins: 
+  There are 4 windows that can open
+  You can input image links to change their skins
+  There's an option to remove skins, or to make a cool 
+  Rainbow effect, with a slider to adjust the speed
+  You can also set the background color
+
+
+
+-Music-
+
+  *Only the CandyMasterClient can add music*
+
+  Click on Add to bring up a text box, where you can input
+  a .wav link
+  Click on Add again to add the link to the playlist
+
+  You can cycle through the playlist with Next and Previous
+
+
+
+-Player-
+
+  Shows you the list of players in the room
+  You can click on them to bring up their stats
+
+  If you're host, you can kill or revive them
+  The other buttons will work soon
+
+
+
+-Server-
+
+  *Only the MasterClient can do these things*
+
+  Set room size
+  Set titan size, spawn, titan health, and spawnrate
+  Spawnrate has 5 boxes: Normal|Aberrant|Jumper|Crawler|Punk
+
+  You can toggle room visibility, 
+  flight, and bounce
+
+
+
+
+-Settings-
+
+  This won't affect other players, just you
+
+  Toggle damage meter, speedometer and FPS meter
+  You can limit the maximum FPS
+
+  You can also toggle bounce, seeing other candymod users
+  through the walls, chat messages appearing above 
+  players, flight, and candy shower
+
+  Flight and bounce will only work if the mc 
+  turns them on for the server
+
+
+
+-Skins-
+
+  You can make animated skins!
+  Only other CandyMod users can see them, 
+
+
+
+-Timer-
+
+  Good for guilds
+  Set the amount of time you want to do for a run
+  At the end, it will tell you a bunch of info:
+      Kills, Deaths, KDR, Kills Per Minute(KPM),
+      Kills Per Second(KPS), Damage Ratio(DR),
+      Damage Per Minute(DPM), and Damage Per Second(DPS)
+
+
+
+-Hide-n-Seek-
+
+  Input the ID of the seeker, then click start
+  The seeker will be transported outside the map for
+  30 seconds, and everyone will see the countdown
+  The seeker must then go up to a CandyMod user, and
+  point to them to find them
